@@ -1,6 +1,6 @@
 # BlackJack Java game
 
- This project is a simplified version of the popular card game Blackjack (aka : '21') without bets.
+  This project is a simplified version of the popular card game Blackjack (aka : '21') without bets.
 
 ## How to play
  At the beginning of the game, 3 players and a dealer are dealt 2 cards each.  <br>
